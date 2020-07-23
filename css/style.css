@@ -1302,3 +1302,9 @@ li#alinear {
 	text-align: left;
     margin: 4px;
 }
+#text {
+	text-align: justify;
+}
+div#padre {
+	text-align: center;
+}
